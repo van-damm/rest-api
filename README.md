@@ -6,4 +6,4 @@ This project is about exploring different REST API patterns, designs and methods
 The example Application Programming Interface (API) will be built using Java and [Spring Boot](https://spring.io/projects/spring-boot). HTTP enables different features that include actions like GET, POST, PUT or DELETE (based on CRUD); caching, redirection/forwarding and security.
 
 ## 🚩 Installation
-Different dependencies have to be added for the new project to run. They include Web, JPA (Java Persistence API) and some kind of database service.
+Different dependencies have to be added for the new project to run. They might include Web, JPA (Java Persistence API) and some kind of database service.
